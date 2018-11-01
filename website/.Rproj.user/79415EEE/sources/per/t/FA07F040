@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1541008021912.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "351821251",
+    "id" : "FA07F040",
+    "lastKnownWriteTime" : 1539853875,
+    "last_content_update" : 1539853875,
+    "path" : "/git/dashboards/website/_000deploy.R",
+    "project_path" : "_000deploy.R",
+    "properties" : {
+        "cursorPosition" : "0,77",
+        "marks" : "<:0,36\n>:0,52",
+        "scrollLine" : "0"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
